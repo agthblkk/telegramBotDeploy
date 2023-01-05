@@ -11,7 +11,7 @@ import json
 API_TOKEN = '5915871838:AAGbY9o8eUHkn40J1ftQhcb8zXYaPv70NhM'
 # Configure logging
 logging.basicConfig(level=logging.INFO)
-HOOK_URL = 'telegrambotpython-qnbljx.codecapsules.co.za' + '/' + API_TOKEN
+HOOK_URL = 'telegrambotdeploy-ywtttl.codecapsules.co.za' + '/' + API_TOKEN
 
 # Initialize bot and dispatcher
 bot = Bot(token=API_TOKEN)
